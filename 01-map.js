@@ -17,8 +17,8 @@ console.log("--- Exemplo 1: dobro de números (básico ---)");
 
 const numeros = [1, 2, 3, 4, 5];
 
-const dobrados =numeros.map((num) => {
-    return num *2;
+const dobrados = numeros.map((num) => {
+    return num * 2;
 });
 
 console.log("Original:", numeros);
